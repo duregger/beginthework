@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Begin the work</title>
+    <link>http://beginthework.com/podcast</link>
+    <language>en-us</language>
+    <copyright>&#169; 2019 - Begin the work, llc</copyright>
+    <itunes:author>Sam DuRegger</itunes:author>
+    <itunes:summary>Conversations with entrepreneurs, creators, and artists on how they begin their work, continue their work once they’ve begun and how they begin, again once they’ve finished the work.</itunes:summary>
+    <description>
+      Sam DuRegger's conversations with entrepreneurs, creators, politicians, and artists on how they begin their work.
+    </description>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>Begin the work</itunes:name>
+      <itunes:email>sam@beginthework.com</itunes:email>
+    </itunes:owner>
+    <itunes:image
+      href="http://www.beginthework.com/feed/begin_podcast.png"
+    />
+    <itunes:category text="Business">
+      <itunes:category text="Entrepreneurship"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    
+    
+     <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>Ep. 8 - Go Win! With Heady Coleman</title>
+      <itunes:summary>Heady Coleman, is everywhere. He greets, he speaks, he motivates. He gets people to figure out how to Go Win in their life and current circumstance.</itunes:summary>
+       <description>A Conversation with Heady Coleman about small towns, startups, and how to habituate ideation.</description>
+       <itunes:image
+        href="http://www.beginthework.com/feed/begin_podcast.png"
+      />
+      <enclosure 
+        length="338" 
+        type="audio/mp3" 
+        url="http://beginthework.com/feed/2020/february/ep8/ep8-heady-coleman-sans-intro.mp3"
+      />
+      <guid>http://beginthework.com/feed/2020/february/ep8/ep8-heady-coleman-sans-intro.mp3</guid>
+      <pubDate>Tuesday, 18 February 2020 08:00:00 GMT</pubDate>
+      <itunes:duration>00:31:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    
+    
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>Ep. 7 - A Conversation with Jeremy Gardner</title>
+      <itunes:summary>Jeremy Gardner, is the founder of Gardner Studio and Small Projects, LLC. He is interested in the renewal of spaces and places and is passionate about building a studio which brings together those that do, with those that draw.</itunes:summary>
+       <description>A Conversation with Jeremy Gardner about architecture, design process, and building teams.</description>
+       <itunes:image
+        href="http://www.beginthework.com/feed/begin_podcast.png"
+      />
+      <enclosure 
+        length="519" 
+        type="audio/mp3" 
+        url="http://beginthework.com/feed/2020/january/ep7/ep7-jeremy-gardner.mp3"
+      />
+      <guid>http://beginthework.com/feed/2020/january/ep7/ep7-jeremy-gardner.mp3</guid>
+      <pubDate>Monday, 20 January 2020 08:00:00 GMT</pubDate>
+      <itunes:duration>00:49:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+<item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>Ep. 6 - Life is not a marathon...</title>
+      <itunes:summary>For this new year, a time of new beginnings, Sam reads the first chapter of his work in progress -- Begin the work. This excerpt introduces the idea of work not as a performance or a race, but as training for a performance or race -- life is not a marathon, life is training for a marathon.</itunes:summary>
+       <description>Sam DuRegger reads Chapter One of Begin the work.</description>
+       <itunes:image
+        href="http://www.beginthework.com/feed/begin_podcast.png"
+      />
+      <enclosure 
+        length="163" 
+        type="audio/mp3" 
+        url="http://www.beginthework.com/feed/2020/january/ep6/ep6-lesson-1.mp3"
+      />
+      <guid>http://www.beginthework.com/feed/2020/january/ep6/ep6-lesson-1.mp3</guid>
+      <pubDate>Monday, 6 January 2020 08:00:00 GMT</pubDate>
+      <itunes:duration>00:15:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+
+<item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>Ep. 5 - So, you want to build a brand?</title>
+      <itunes:summary>In this conversation Sam and Evan delve into design and branding as it relates to constructing a brand framework, as opposed to just a logo. Evan expands on his philosophy of branding design, introduced in the last podcast conversation with Studio DeWalt, an Oklahoma City based design boutique.</itunes:summary>
+    <description>Sam DuRegger's conversation on branding with Evan DeWalt</description>
+       <itunes:image
+        href="http://www.beginthework.com/feed/begin_podcast.png"
+      />
+      <enclosure 
+        length="469" 
+        type="audio/mp3" 
+        url="http://www.beginthework.com/feed/2019/october/ep5/evan_dewalt_final.mp3"
+      />
+      <guid>http://www.beginthework.com/feed/2019/october/ep5/evan_dewalt_final.mp3</guid>
+      <pubDate>Thursday, 23 October 2019 13:00:00 GMT</pubDate>
+      <itunes:duration>00:44:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>Ep. 4 - A Conversation with Studio DeWalt</title>
+      <itunes:summary>In this conversation, Sam, Evan, and Julie delve into design principles and practices, as more than any other profession it seems designers flow through the Begin; Begun; Begin, Again process on a daily basis iterating on design projects for businesses of varying sizes and within a multitude of industries.</itunes:summary>
+    <description>Sam DuRegger's conversation with Evan and Julie DeWalt</description>
+       <itunes:image
+        href="http://www.beginthework.com/feed/begin_podcast.png"
+      />
+      <enclosure 
+        length="873" 
+        type="audio/mp3" 
+        url="http://www.beginthework.com/feed/2019/september/ep4/Studio_DeWalt_Final.mp3"
+      />
+      <guid>http://www.beginthework.com/feed/2019/september/ep4/Studio_DeWalt_Final.mp3</guid>
+      <pubDate>Mon, 16 September 2019 13:00:00 GMT</pubDate>
+      <itunes:duration>01:22:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+
+<item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>Ep. 3 - A Conversation with Andy Braner</title>
+      <itunes:summary>In this episode, Andy and Sam look back on their time in youth ministry and connect the dots from #camplife to #govlife, as they now both work for and in Government.</itunes:summary>
+    <description>Sam DuRegger's conversation with Andy Braner</description>
+       <itunes:image
+        href="http://www.beginthework.com/feed/begin_podcast.png"
+      />
+      <enclosure 
+        length="689" 
+        type="audio/mp3" 
+        url="http://www.beginthework.com/feed/2019/august/ep3/Ep3_Andy_Braner.mp3"
+      />
+      <guid>http://www.beginthework.com/feed/2019/august/ep3/Ep3_Andy_Braner.mp3</guid>
+      <pubDate>Wed, 28 Aug 2019 13:00:00 GMT</pubDate>
+      <itunes:duration>01:05:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    
+    
+      <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>Ep. 2 - A Conversation with Todd Smith</title>
+      <itunes:summary>In this episode, Todd and Sam look back on their time at SONIC Drive-In, where Todd led the digital innovation vision as CMO and later President of SONIC.</itunes:summary>
+    <description>Sam DuRegger's conversation with Todd Smith</description>
+       <itunes:image
+        href="http://www.beginthework.com/feed/begin_podcast.png"
+      />
+      <enclosure 
+        length="559" 
+        type="audio/mp3" 
+        url="http://www.beginthework.com/feed/2019/august/2-full-episode-todd-smith.mp3"
+      />
+      <guid>http://www.beginthework.com/feed/2019/august/2-full-episode-todd-smith.mp3</guid>
+      <pubDate>Tue, 20 Aug 2019 13:00:00 GMT</pubDate>
+      <itunes:duration>00:52:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>Ep. 1 - A Conversation with Ben Nockels</title>
+       <itunes:summary>
+        In our inaugural interview Sam sits down with Ben Nockles of Commonplace Books to discuss Commonplace's origin story and what's next for the brand.
+       </itunes:summary>
+      <description>
+      Sam DuRegger's conversation with Ben Nockels
+      </description>
+      <itunes:image
+        href="http://www.beginthework.com/feed/begin_podcast.png"
+      />
+      <enclosure
+        length="964" 
+        type="audio/mp3" 
+        url="http://www.beginthework.com/feed/2019/july/episode-2-ben-nockels.mp3"
+      />
+      <guid>http://www.beginthework.com/feed/2019/july/episode-2-ben-nockels.mp3</guid>
+      <pubDate>Tue, 30 Jul 2019 13:00:00 GMT</pubDate>
+      <itunes:duration>01:30:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>Intro - An introduction to Begin the podcast</title>
+      <itunes:summary>
+        Introductory podcast... How do we begin the work? Sam DuRegger sets up Begin the Podcast series, gives shouts out to some partners, and unpacks the lessons found in the BEGIN the work book series.
+      </itunes:summary>
+      <description>
+      Sam DuRegger introduces Begin the work podcast
+      </description>
+      <itunes:image
+        href="http://www.beginthework.com/feed/begin_podcast.png"
+      />
+      <enclosure 
+        length="144" 
+        type="audio/mp3" 
+        url="http://www.beginthework.com/feed/2019/july/intro_full_episode.mp3"
+      />
+      <guid>http://www.beginthework.com/feed/2019/july/intro_full_episode.mp3</guid>
+      <pubDate>Tue, 30 Jul 2019 10:00:00 GMT</pubDate>
+      <itunes:duration>00:13:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+      </channel>
+</rss>

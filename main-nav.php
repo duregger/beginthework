@@ -1,0 +1,120 @@
+<body>
+
+    <!-- header strat -->
+    <header>
+        <div class="header-area header-sticky">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-xl-2 col-lg-3 col-md-4 d-flex align-items-center">
+                        <div class="logo">
+                            <a href="#home"><img src="img/logo/logo.svg" width="125px" alt="begin logo"></a>
+                        </div>
+                    </div>
+                    <div class="col-xl-7 d-none d-xl-block">
+                    </div> 
+                    <div class="col-xl-3 col-lg-9 col-md-8  d-flex align-items-center justify-content-end">
+                        <div class="header-right">
+                            <div class="bar f-right">
+                                <i class="fas fa-bars"></i>
+                            </div>
+                             <div class="f-right">
+                                <a href="/podcast/" class="btn-header header-btn1"><img src="/img/podcast/microphone-black.png" width="25px"></a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+            <!-- side-bar start -->
+            <div class="btn-menu-main">
+                <i class="fas fa-times crose"></i>
+                <div class="logo-side mb-30">
+                    <a href="http://beginthework.com">
+                        <img src="img/logo/logo-footer.svg" width="120px" alt="white BEGIN logo">
+                    </a>
+                </div>
+                
+                <div class="side-info mb-30">
+	                <div class="contact-list mb-30">
+                        
+                       <a href="/podcast/" class="btn header-btn2">Listen to Podcast</a>
+                    </div>
+                    
+                </div>
+                <div class="side-info mb-30">
+                    <div class="contact-list mb-30">
+                        <h4>Subscribe to Newsletter</h4>
+                        <p><a href="https://world.hey.com/btw/">world.hey.com/btw</a></p>
+                        <h4>Say Hey!</h4>
+                        <p><a href="mailto:btw@hey.com">btw@hey.com</a></p>
+                        
+                    </div>
+                     <div class="social-icon-right mt-20">
+                            <a href="https://www.twitter.com/beginthework/" target="_blank"><i class="fab fa-twitter"></i></a>
+                                  <a href="https://www.instagram.com/beginthework/" target="_blank"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.linkedin.com/in/duregger/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                </div>
+                </div>
+                <div class="side-info mb-30">
+                    <div class="contact-list mb-30">
+                        <h4><a href="/about/">About</a></h4>
+                        <h4><a href="/podcast/">Podcast</a></h4>
+                        <h4><a href="/book/">Book</a></h4>
+                        <h4><a href="https://beginthework.medium.com" target="_blank">Writing</a></h4>
+                    </div>
+                </div>
+
+
+                <div class="side-info mb-30">
+                    <div class="contact-list mb-30">
+	                <h4>Begin the Podcast</h4>
+                    <br/>
+                    <div class="instagram">
+                    <a href="http://beginthework.com/podcast/heady-coleman">
+                        <img src="img/grid/08.jpg" alt="Heady Coleman">
+                    </a>
+                    <a href="http://beginthework.com/podcast/jeremy-gardner">
+                        <img src="img/grid/07.jpg" alt="Jeremy Gardner">
+                    </a>
+                   <a href="http://beginthework.com/podcast/lesson-1/">
+                        <img src="img/grid/06.jpg" alt="Lesson #1">
+                    </a>
+					</div>
+					<div class="instagram">
+                    <a href="http://beginthework.com/podcast/evan-dewalt/">
+                        <img src="img/grid/05.jpg" alt="Evan DeWalt">
+                    </a>
+                    <a href="http://beginthework.com/podcast/studio-dewalt/">
+                        <img src="img/grid/04.jpg" alt="Studio DeWalt">
+                    </a>
+                    <a href="http://beginthework.com/podcast/andy-braner/">
+                        <img src="img/grid/03.jpg" alt="Andy Braner">
+                    </a>
+					</div>
+					<div class="instagram">
+                  <a href="http://beginthework.com/podcast/todd-smith">
+                        <img src="img/grid/02.jpg" alt="Todd Smith">
+                    </a>
+                    <a href="http://beginthework.com/podcast/ben-nockels">
+                        <img src="img/grid/01.jpg" alt="Ben Nockels">
+                    </a>
+                    <a href="http://beginthework.com/podcast/intro">
+                        <img src="img/grid/00.jpg" alt="Begin the work">
+                    </a>
+					</div>
+                </div>
+                
+                <div class="side-info mb-30">
+	                <div class="contact-list mb-30">
+                        <h4>&copy; 2022 Begin the work, LLC</h4>
+                        <p>Oklahoma City, OK</p>
+                        <!-- <p>641-230-1900</p> -->
+                        <p></p>
+                    </div>
+                  
+                </div>
+            </div>
+            <!-- side-bar end -->
+		</div>	
+    </header>
+    <!-- header end -->
