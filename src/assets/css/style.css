@@ -1286,6 +1286,7 @@ label {
 	color: #fff;
 	float: right;
 	cursor: pointer;
+	margin: 10px 0px;
 }
 /* extra info */
 .extra-info > p {

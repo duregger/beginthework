@@ -217,6 +217,10 @@
 	top: auto;
 	right: auto;
 	transform: none;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 20px;
 }
 .single-slider {
 	min-height: 600px;
@@ -314,11 +318,8 @@
 
 /* Large Mobile :480px. */
 @media only screen and (min-width: 550px) and (max-width: 767px) {
-.header-right .bar {
-	position: absolute;
-	top: 50%;
-	right: 0;
-	transform: translateY(-50%);
+.single-slider {
+	min-height: 600px;
 }
 }
 
@@ -343,9 +344,14 @@
 	top: auto;
 	right: auto;
 	transform: none;
-	width: 40px;
-	height: 40px;
-	line-height: 40px;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
 	font-size: 20px;
+}
+
+.crose {
+	margin-top: 20px;
+	margin-right: 4px;
 }
 }
