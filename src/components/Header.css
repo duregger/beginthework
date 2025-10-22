@@ -1,0 +1,8 @@
+/* Header-specific styles */
+.btn-menu-main.active {
+  transform: translateX(0);
+}
+
+.btn-menu-main {
+  transition: transform 0.3s ease-in-out;
+}

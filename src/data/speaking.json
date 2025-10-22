@@ -1,0 +1,329 @@
+{
+  "talksAndKeynotes": {
+    "title": "Talks & Keynotes",
+    "subtitle": "Exploring AI and the future of work, team dynamics, and culture. Stories and frameworks on how technology intersects with human creativity, productivity, and meaning in our work.",
+    "categories": {
+      "aiAndFutureOfWork": {
+        "title": "AI & the Future of Work",
+        "subtitle": "Exploring how artificial intelligence intersects with human creativity, productivity, and meaning in our work.",
+        "items": [
+          {
+            "id": "ai-gap-talk",
+            "title": "The AI Gap Talk",
+            "shortDescription": "Exploring the critical gap between AI capabilities and human understanding, and how to bridge it for meaningful impact.",
+            "longDescription": "This talk delves deep into the disconnect between what AI can technically accomplish and how humans actually understand, trust, and integrate these tools into their work. Drawing from real-world implementations across different industries, we explore the psychological, cultural, and practical barriers that prevent AI from reaching its potential impact.",
+            "video": {
+              "type": "loom",
+              "embedId": "3cd87273d39546bdbe055acd15675c2b",
+              "url": "https://www.loom.com/share/3cd87273d39546bdbe055acd15675c2b"
+            },
+            "slides": {
+              "url": null,
+              "title": null
+            },
+            "duration": "20-45 minutes",
+            "audience": "Product leaders, executives, digital transformation teams"
+          },
+          {
+            "id": "innovation-strategy",
+            "title": "Innovation Strategy",
+            "shortDescription": "Building sustainable innovation practices that drive real business value and meaningful change.",
+            "longDescription": "Innovation isn't just about having great ideas—it's about building systems and cultures that consistently generate, evaluate, and implement new approaches to solving problems. This talk explores how to create sustainable innovation strategies that drive real business value while maintaining focus on what matters most to your customers and organization.",
+            "video": {
+              "type": "loom",
+              "embedId": "1ecb33c3b5094ef8a102598ba88f6c0c",
+              "url": "https://www.loom.com/share/1ecb33c3b5094ef8a102598ba88f6c0c"
+            },
+            "slides": {
+              "url": null,
+              "title": null
+            },
+            "duration": "15-30 minutes",
+            "audience": "Business leaders, innovation teams, strategy teams"
+          },
+          {
+            "id": "chapter-9-inspiration-optional",
+            "title": "Inspiration Isn't Optional",
+            "shortDescription": "Curiosity is a muscle and connoisseurship is a practice. Drawing on influences as diverse as Yvon Chouinard and David Ogilvy, product teams need to ask hard questions.",
+            "longDescription": "Product teams need to share what inspires them, and cultivate taste. Wild ideas rooted in values can reshape industries, and disciplined craft can turn research into meaning. Inspiration fuels storytelling as much as problem‑solving; a product without it lacks soul.",
+            "video": {
+              "type": "youtube",
+              "embedId": null,
+              "url": null
+            },
+            "slides": {
+              "url": null,
+              "title": null
+            },
+            "duration": "15-30 minutes",
+            "audience": "Creative teams, product designers, innovation teams"
+          }
+        ]
+      },
+      "teamAndCulture": {
+        "title": "Team & Culture",
+        "subtitle": "Building resilient teams and healthy cultures that thrive in complex, ambiguous environments.",
+        "items": [
+          {
+            "id": "chapter-1-people-first",
+            "title": "People First, Always",
+            "shortDescription": "Real people use the things we build, bringing their hopes, habits, hang‑ups, and history with them into every tap, swipe, or scroll.",
+            "longDescription": "If we reduce them to 'conversion events' or 'churn risks,' we risk creating products that are efficient but empty. Great products earn their place in people's lives by making those lives measurably better—not just faster or stickier, but genuinely better.",
+            "video": {
+              "type": "youtube",
+              "embedId": null,
+              "url": null
+            },
+            "slides": {
+              "url": null,
+              "title": null
+            },
+            "duration": "15-30 minutes",
+            "audience": "Product teams, product managers, designers"
+          },
+          {
+            "id": "chapter-3-build-for-belonging",
+            "title": "Build for Belonging",
+            "shortDescription": "Working on apps like Final Surge 2.0 and Wylder taught me that the best digital products create space: space for people to show up, connect, and move forward together.",
+            "longDescription": "Belonging doesn't always register on a metrics dashboard, but when it's missing, a product feels hollow. The goal is to invite people in and make them want to stay—not because they were tricked, but because they were truly seen.",
+            "video": {
+              "type": "youtube",
+              "embedId": null,
+              "url": null
+            },
+            "slides": {
+              "url": null,
+              "title": null
+            },
+            "duration": "15-30 minutes",
+            "audience": "Product teams, community builders, social product teams"
+          },
+          {
+            "id": "chapter-5-shape-of-work",
+            "title": "The Shape of the Work",
+            "shortDescription": "Clear goals shape the team. At Sonic, a digital‑first ordering experience required more builders and fewer project managers.",
+            "longDescription": "Outsourcing can help with scale or speed, but outsourcing innovation is risky—it diffuses accountability and diffuses vision. The way work is defined shapes culture, so product leads must set vision, resist hero culture, and shepherd teams through ambiguity with tools like product briefs, personas, and constraint framing.",
+            "video": {
+              "type": "youtube",
+              "embedId": null,
+              "url": null
+            },
+            "slides": {
+              "url": null,
+              "title": null
+            },
+            "duration": "15-30 minutes",
+            "audience": "Product leaders, team leads, organizational development"
+          },
+          {
+            "id": "chapter-6-ego-team-killer",
+            "title": "Ego Is the Team Killer",
+            "shortDescription": "Heroes limit potential. Teams win together when ego takes a back seat. Retrospectives let teams leave ego at the door and learn from mistakes without blame.",
+            "longDescription": "Hero culture rewards knowledge hoarding and burnout; team culture rewards trust, shared ownership, and continuous learning. Every commit, conversation, and launch is a vote for trust—or its erosion—so build like trust is your most important asset.",
+            "video": {
+              "type": "youtube",
+              "embedId": null,
+              "url": null
+            },
+            "slides": {
+              "url": null,
+              "title": null
+            },
+            "duration": "15-30 minutes",
+            "audience": "Product leaders, engineering managers, team leads"
+          }
+        ]
+      }
+    }
+  },
+  "productAndOrganizational": {
+    "title": "Product & Organizational Keynotes",
+    "subtitle": "Systems thinking for product development and organizational design that creates sustainable value, in the form of revenue and growth.",
+    "items": [
+      {
+        "id": "chapter-2-product-physiology",
+        "title": "Product Physiology",
+        "shortDescription": "My sports science background shaped how I see product. Like the human body, a great product is a complex system that requires alignment, intentional stress, and recovery.",
+        "longDescription": "It flexes and grows stronger through feedback. It fails, adapts, and iterates. It only works when the whole system is healthy—when marketing isn't at war with product, and engineers aren't burning out to meet arbitrary deadlines.",
+        "video": {
+          "type": "youtube",
+          "embedId": null,
+          "url": null
+        },
+        "slides": {
+          "url": null,
+          "title": null
+        },
+        "duration": "15-30 minutes",
+        "audience": "Product teams, engineering teams, cross-functional teams"
+      },
+      {
+        "id": "chapter-4-disrupt-or-innovate",
+        "title": "Disrupt or Innovate — You Can't Do Both",
+        "shortDescription": "One breaks the system; the other builds it better. At Sonic Drive‑In, we threaded innovation into something already beloved without losing the soul of the brand.",
+        "longDescription": "In fintech, we built an AI‑powered banking app by treating financial health like physical fitness, using behavioral science to nudge users toward better habits. Knowing when to disrupt and when to innovate is where great products live.",
+        "video": {
+          "type": "youtube",
+          "embedId": null,
+          "url": null
+        },
+        "slides": {
+          "url": null,
+          "title": null
+        },
+        "duration": "15-30 minutes",
+        "audience": "Product leaders, executives, innovation teams"
+      },
+      {
+        "id": "chapter-7-organizational-physiology",
+        "title": "Organizational Physiology",
+        "shortDescription": "Digital isn't a hood ornament; it's connective tissue. Marketing and growth are the muscles that generate momentum.",
+        "longDescription": "Operations and technology are the bones that provide structure and durability. Product management acts as the tendons and ligaments, sensing imbalance and aligning the system toward strength and stability. Treating digital as connective tissue means caring about alignment and listening to early signs of strain before they become breaks.",
+        "video": {
+          "type": "youtube",
+          "embedId": null,
+          "url": null
+        },
+        "slides": {
+          "url": null,
+          "title": null
+        },
+        "duration": "15-30 minutes",
+        "audience": "Product leaders, executives, organizational development"
+      },
+      {
+        "id": "chapter-8-progress-over-process",
+        "title": "Progress over Process",
+        "shortDescription": "Project management isn't the enemy, but in ambiguous, complex work, progress matters more than following a rigid plan.",
+        "longDescription": "Agile's mantra—people and interactions over processes and tools—reminds us that outcomes beat paperwork. Product management empowers teams to deliver the right thing, to the right people, at the right time. It values learning, iteration, and flexibility over strict adherence to a predefined process.",
+        "video": {
+          "type": "youtube",
+          "embedId": null,
+          "url": null
+        },
+        "slides": {
+          "url": null,
+          "title": null
+        },
+        "duration": "15-30 minutes",
+        "audience": "Product managers, agile coaches, process improvement teams"
+      },
+      {
+        "id": "chapter-10-metrics-matter",
+        "title": "Metrics That Matter",
+        "shortDescription": "People first, always—but don't ignore the data. Metrics can illuminate or mislead.",
+        "longDescription": "Cost of acquisition is meaningless without retention; page views are empty without time on page and bounce rate; downloads mean little without active usage. The right metrics are paired with context and used transparently. Data should spark questions and guide decisions, but it should never replace gut, instinct, or human insight. Build for people and the metrics will follow.",
+        "video": {
+          "type": "youtube",
+          "embedId": null,
+          "url": null
+        },
+        "slides": {
+          "url": null,
+          "title": null
+        },
+        "duration": "15-30 minutes",
+        "audience": "Product managers, data teams, growth teams"
+      }
+    ]
+  },
+  "guestLecturesAndDialogues": {
+    "title": "Guest Lectures & Dialogues",
+    "subtitle": "Tailored conversations for students, educators, and emerging leaders. These sessions bridge the gap between academic theory and real-world practice.",
+    "items": [
+      {
+        "id": "product-management-101",
+        "title": "Product Management 101",
+        "shortDescription": "Includes the Four Roles of a Product Manager, Leadership without Accountability, Progress over Process, and why Ego is the team killer.",
+        "longDescription": "This comprehensive lecture covers the fundamentals of product management through real-world frameworks and case studies. Students will learn about the four core roles every product manager must master, how to lead teams without traditional authority, why progress matters more than process, and the destructive power of ego in team dynamics. Includes two detailed case studies comparing tactical product management approaches in corporate and startup environments—same systems, different strategies for delivery.",
+        "video": {
+          "type": "youtube",
+          "embedId": null,
+          "url": null
+        },
+        "slides": {
+          "url": null,
+          "title": null
+        },
+        "duration": "60-90 minutes",
+        "audience": "MBA, Business School, Emerging Professionals"
+        
+      },
+      {
+        "id": "ai-coming-for-your-job",
+        "title": "AI is Coming for Your Job",
+        "shortDescription": "If this is true, what are you going to do about it? Do you give up, dig deep, become a generalist, collect degrees, become an expert? How do we navigate education in a world of AI realities?",
+        "longDescription": "Based on the essay 'The Future of Work Is Post-Digital,' this lecture explores the fundamental shift from digital to post-digital work. Students will examine three emerging models for thriving in an AI-dominated economy: 1) Value from Curation, Not Creation - learning to assess quality at scale and separate signal from noise; 2) Monetizing Taste, Trust, and Authority - developing distinct POV and aesthetic language as monetizable assets; 3) Coordinating Systems and Human Networks - becoming system-level thinkers who arrange conditions for value emergence. The lecture addresses the transition from specialization to orchestration, where the ability to guide both human and artificial intelligence becomes the new essential skill. Students will explore how to navigate education and career preparation when traditional roles are being automated, focusing on building trust, developing taste, and becoming translators between disciplines and stakeholders.",
+        "video": {
+          "type": "youtube",
+          "embedId": null,
+          "url": null
+        },
+        "slides": {
+          "url": "https://beginthework.substack.com/p/the-future-of-work-is-post-digital",
+          "title": "The Future of Work Is Post-Digital"
+        },
+        "duration": "60-90 minutes",
+        "audience": "Technology & Engineering, Design & Business"
+      }
+    ]
+  },
+  "workshopsAndFacilitation": {
+    "title": "Workshops & Facilitation",
+    "subtitle": "Guided sessions that help teams think, reflect, and build shared language. These are hands-on experiences designed to create lasting change in how teams approach their work.",
+    "items": [
+      {
+        "id": "product-strategy-roundtables",
+        "title": "Product Strategy Roundtables",
+        "shortDescription": "Facilitated conversations for product leaders to explore complex challenges, share experiences, and develop new approaches to common problems.",
+        "longDescription": "These intimate, facilitated sessions bring together 8-12 product leaders to tackle shared challenges in a collaborative environment. Each roundtable focuses on a specific theme like 'Building Product Cultures,' 'Managing Stakeholder Expectations,' or 'Measuring Product Success.' Sessions include structured discussion, peer problem-solving, and actionable takeaways. Perfect for product communities, conference workshops, or internal team development.",
+        "video": {
+          "type": "youtube",
+          "embedId": null,
+          "url": null
+        },
+        "slides": {
+          "url": null,
+          "title": null
+        },
+        "duration": "2-3 hours",
+        "audience": "Product managers, product leaders, cross-functional teams"
+      },
+      {
+        "id": "building-resilient-teams",
+        "title": "Building Resilient Teams",
+        "shortDescription": "Workshops on creating product cultures that can adapt, learn, and thrive in uncertain environments.",
+        "longDescription": "Resilient teams aren't just about surviving change—they're about thriving in uncertainty. This hands-on workshop teaches teams how to build psychological safety, create learning cultures, and develop adaptive practices that help them navigate complex challenges. Participants will leave with concrete tools for team retrospectives, conflict resolution, and continuous improvement. Includes exercises, role-playing, and team-specific action planning.",
+        "video": {
+          "type": "youtube",
+          "embedId": null,
+          "url": null
+        },
+        "slides": {
+          "url": null,
+          "title": null
+        },
+        "duration": "4-6 hours (can be split into sessions)",
+        "audience": "Product teams, engineering teams, cross-functional teams"
+      },
+      {
+        "id": "ai-strategy-non-tech-companies",
+        "title": "AI Strategy for Non-Tech Companies",
+        "shortDescription": "Practical frameworks for integrating AI tools and thinking into traditional business models without losing what makes you human.",
+        "longDescription": "AI isn't just for tech companies anymore. This workshop helps traditional businesses understand how to evaluate, implement, and scale AI tools while maintaining their human-centered approach to customer service and operations. We'll cover AI readiness assessment, tool evaluation frameworks, implementation roadmaps, and change management strategies. Participants will work through real scenarios and leave with a customized AI strategy for their organization.",
+        "video": {
+          "type": "youtube",
+          "embedId": null,
+          "url": null
+        },
+        "slides": {
+          "url": null,
+          "title": null
+        },
+        "duration": "Half day (4 hours)",
+        "audience": "Business leaders, operations teams, customer service teams"
+      }
+    ]
+  }
+    
+}

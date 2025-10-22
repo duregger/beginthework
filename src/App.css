@@ -1,0 +1,21 @@
+/* App-specific styles */
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+/* React-specific overrides */
+.react-router-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.react-router-link:hover {
+  text-decoration: none;
+  color: inherit;
+}

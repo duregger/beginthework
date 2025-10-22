@@ -1,0 +1,305 @@
+/* Speaking Page Styles */
+
+.speaking-fee-text {
+  font-size: 0.8rem !important;
+  margin-top: 10px !important;
+  font-style: italic !important;
+  color: #666 !important;
+}
+
+.speaking-hero {
+  background: #f8f9fa;
+}
+
+.speaking-hero .about-right p {
+  font-size: 14px;
+  color: #6e7797;
+  line-height: 26px;
+  margin: 0 !important;
+}
+
+.speaking-title {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #2a4799;
+  margin-bottom: 1.5rem;
+  line-height: 1.2;
+}
+
+.speaking-subtitle {
+  font-size: 1.1rem;
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
+.format-section {
+  background: #fff;
+}
+
+.format-section.alt-bg {
+  background: #f8f9fa;
+}
+
+.format-title {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #2a4799;
+  margin-bottom: 1rem;
+}
+
+.format-description {
+  font-size: 1rem;
+  color: #666;
+  line-height: 1.6;
+}
+
+.category-section {
+  margin-bottom: 3rem;
+}
+
+.category-title {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #2a4799;
+  margin-bottom: 0.5rem;
+}
+
+.category-subtitle {
+  font-size: 0.9rem;
+  color: #888;
+  line-height: 1.5;
+  margin-bottom: 1.5rem;
+  font-style: italic;
+}
+
+.speaking-cards {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+.speaking-card {
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  overflow: hidden;
+}
+
+.speaking-card:hover {
+  border-color: #2a4799;
+  box-shadow: 0 4px 12px rgba(42, 71, 153, 0.1);
+}
+
+.speaking-card-header {
+  padding: 1.5rem;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.speaking-card-header:hover {
+  background-color: #f8f9fa;
+}
+
+.speaking-card-header h4 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #2a4799;
+  margin: 0;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.card-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  align-items: flex-end;
+  font-size: 0.85rem;
+  color: #666;
+}
+
+.duration {
+  font-weight: 500;
+}
+
+.audience {
+  font-style: italic;
+}
+
+.video-indicator {
+  color: #ff3d4f;
+  font-size: 1rem;
+}
+
+.expand-icon {
+  color: #2a4799;
+  font-size: 1rem;
+  margin-left: 0.5rem;
+}
+
+.speaking-card-body {
+  padding: 0 1.5rem 1.5rem 1.5rem;
+}
+
+.short-description {
+  font-size: 0.95rem;
+  color: #666;
+  line-height: 1.5;
+  margin-bottom: 0;
+}
+
+.expanded-content {
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #eee;
+}
+
+.long-description {
+  margin-bottom: 2rem;
+}
+
+.long-description p {
+  font-size: 1rem;
+  color: #333;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
+.video-section, .slides-section {
+  margin-bottom: 1.5rem;
+}
+
+.video-section h5, .slides-section h5 {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #2a4799;
+  margin-bottom: 0.75rem;
+}
+
+.video-embed {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.video-link, .slides-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  background: #2a4799;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+.video-link:hover, .slides-link:hover {
+  background: #1e3a7a;
+  color: white;
+}
+
+.card-details {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  padding: 1rem;
+  background: #f8f9fa;
+  border-radius: 6px;
+  margin-top: 1.5rem;
+}
+
+.detail-item {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.detail-item strong {
+  color: #2a4799;
+  font-weight: 600;
+}
+
+.speaking-cta {
+  background: #f8f9fa;
+}
+
+.speaking-cta-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.speaking-cta-buttons .btn {
+  margin: 0;
+}
+
+.speaking-cta-buttons .btn i,
+.btn i {
+  margin-right: 0.5rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .speaking-title {
+    font-size: 2rem;
+  }
+
+  .mt-4 .btn {
+    margin: 24px 0 24px 0
+  }
+  
+  .format-title {
+    font-size: 1.5rem;
+  }
+  
+  .speaking-cards {
+    gap: 1rem;
+  }
+  
+  .speaking-card-header {
+    padding: 1rem;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+  
+  .card-meta {
+    align-items: flex-start;
+    flex-direction: row;
+    gap: 1rem;
+  }
+  
+  .expand-icon {
+    align-self: flex-end;
+    margin-left: 0;
+  }
+  
+  .speaking-card-body {
+    padding: 0 1rem 1rem 1rem;
+  }
+  
+  .card-details {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+  
+  .speaking-cta-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .speaking-cta-buttons .btn {
+    width: 100%;
+    max-width: 300px;
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "fractionalConsulting": {
+    "title": "Fractional Consulting",
+    "subtitle": "Fractional Work",
+    "items": [
+      {
+        "id": "cafe-rio",
+        "title": "Cafe Rio",
+        "role": "Fractional VP of Digital Marketing",
+        "description": "Cafe Rio Fresh Modern Mexican",
+        "image": "/img/projects/wylder-app.jpeg",
+        "alt": "Cafe Rio",
+        "url": "https://www.caferio.com",
+        "linkText": "Cafe Rio →",
+        "status": "current"
+      },
+      {
+        "id": "wylder-app",
+        "title": "Wylder App",
+        "role": "Fractional Head of Product",
+        "description": "Where Strava owns what runners do when they're alone, Wylder owns what runners do when they're together.",
+        "image": "/img/projects/wylder-app.jpeg",
+        "alt": "Wylder App",
+        "url": "https://app.wylder.cc",
+        "linkText": "Wylder App →",
+        "status": "current"
+      },
+      {
+        "id": "final-surge",
+        "title": "Final Surge",
+        "role": "Fractional Head of Product & Marketing",
+        "description": "Product Marketing and Product Management. Helped launch their newest 4.0 experiencee at USA Triathlon Expo.",
+        "image": "/img/projects/final-surge-12-2023-final-print.jpg",
+        "alt": "Final Surge",
+        "url": "https://finalsurge.com",
+        "linkText": "FinalSurge.com →"
+      }
+    ]
+  },
+  "ownedProjects": {
+    "title": "Our Brands & Products",
+    "subtitle": "Brands, Apps & Events",
+    "items": [
+      {
+        "id": "gutenstack",
+        "title": "GutenStack",
+        "role": "App",
+        "description": "Your Virtual Bookshelf.",
+        "image": "/img/projects/gutenstack.png",
+        "alt": "GutenStack",
+        "url": "https://gutenstack.com",
+        "linkText": "GutenStack →",
+        "status": "active"
+      },
+      {
+        "id": "storybuild",
+        "title": "StoryBuild Publishing",
+        "role": "Brand",
+        "description": "Products for the digitally distracted. #journals #drawyourownadventure #books",
+        "image": "/img/projects/storybuild_journal.jpeg",
+        "alt": "StoryBuild Publishing",
+        "url": "https://story.build",
+        "linkText": "Story.Build →",
+        "status": "active"
+      },
+      {
+        "id": "artificiallly",
+        "title": "Artificiallly Intelligent Conversations",
+        "role": "Events & Podcast",
+        "description": "Artificiallly blends AI tools with human connection to help people bring ideas to life, faster. Meetups, Convos, & Podcast.",
+        "image": "/img/projects/artificiallly.png",
+        "alt": "Artificiallly Intelligent Conversations",
+        "url": "https://artificiallly.com",
+        "linkText": "Artificiallly.com →",
+        "status": "discovery"
+      },
+      {
+        "id": "begin-strength",
+        "title": "Begin Strength",
+        "role": "Brand",
+        "description": "Strength training and fitness resources.",
+        "image": "/img/projects/begin-strength.png",
+        "alt": "Begin Strength",
+        "url": "https://beginthe.work",
+        "linkText": "Begin Strength →",
+        "status": "discovery"
+      }
+    ]
+  },
+  "resources": {
+    "title": "Published Works",
+    "subtitle": "Books, Journals & Tools",
+    "items": [
+      {
+        "id": "i-build-for-people",
+        "title": "I Build for People",
+        "role": "Book",
+        "description": "A product manifesto by Sam DuRegger.",
+        "image": "/img/projects/I_Build_for_people_Cover.png",
+        "alt": "I Build for People, a product manifesto",
+        "url": "https://story.build/books/i-build-for-people",
+        "linkText": "I Build for People →"
+      },
+      {
+        "id": "product-journals",
+        "title": "Product Journals",
+        "role": "Product Tools",
+        "description": "Tools and resources for product professionals and teams.",
+        "image": "/img/projects/storybuild_journal.jpeg",
+        "alt": "Product Journals",
+        "url": "https://story.build/shop#Product%20Journal",
+        "linkText": "Product Journals →"
+      },
+      {
+        "id": "draw-your-own-adventure",
+        "title": "Cowboy Sam & His Dog Gus: Arctic Exploration",
+        "role": "Coloring Book",
+        "description": "Interactive adventure books that combine storytelling with creative expression.",
+        "image": "/img/projects/Sam_and_Gus_Artic_Explorer_front.png",
+        "alt": "Draw Your Own Adventure Books",
+        "url": "https://story.build/shop/cowboy-sam-his-dog-gus-artic-exploration",
+        "linkText": "Draw Your Own Adventure →"
+      }
+    ]
+  }
+}

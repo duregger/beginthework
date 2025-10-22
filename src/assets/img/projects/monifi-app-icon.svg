@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Beta" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-692.000000, -5000.000000)">
+            <g id="Group-15" transform="translate(568.500000, 5000.000000)">
+                <g id="Group" transform="translate(123.500000, 0.000000)">
+                    <rect id="App-Icon-1024x1024" fill="#FF5B00" x="0" y="0" width="56" height="56" rx="14"></rect>
+                    <path d="M29,21.6647864 L40.0935478,16.5612902 L40.0935478,27 L43,27 L43,12 L29,18.4408717 L29,21.6647864 Z M15.9063198,27 L15.9063198,16.5614791 L27,21.6645655 L27,18.439896 L13,12 L13,27 L15.9063198,27 Z M27,34.2690871 L15.9058322,39.4080918 L15.9058322,29 L13,29 L13,44 L27,37.5147677 L27,34.2690871 Z M40.0939379,29 L40.0939379,39.408804 L29,34.2703818 L29,37.5159644 L43,44 L43,29 L40.0939379,29 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
