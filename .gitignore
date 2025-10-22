@@ -106,12 +106,4 @@ firebase-debug.log
 # Archive files (keep the archive folder but ignore contents)
 _archive/
 
-node_modules/
-dist/
-*.log
-.env
-node_modules/
-dist/
-*.log
-.env
-../*
+# Keep all media files
