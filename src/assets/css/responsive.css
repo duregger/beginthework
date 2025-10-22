@@ -319,6 +319,11 @@
 	z-index: 1001;
 }
 
+/* Override Bootstrap's align-items-center for hamburger column on mobile */
+.col-xl-3.col-lg-9.col-md-8 {
+	align-items: flex-start !important;
+}
+
 .header-right .bar {
 	position: relative;
 	top: auto;
