@@ -202,26 +202,6 @@
 	display: none;
 }
 
-.header-right {
-	margin-top: 0;
-	margin-right: 0;
-	position: absolute;
-	top: 50%;
-	right: 15px;
-	transform: translateY(-50%);
-	z-index: 1001;
-}
-
-.header-right .bar {
-	position: relative;
-	top: auto;
-	right: auto;
-	transform: none;
-	width: 50px;
-	height: 50px;
-	line-height: 50px;
-	font-size: 20px;
-}
 .single-slider {
 	min-height: 600px;
 }
